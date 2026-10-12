@@ -10,13 +10,19 @@
   contacts: 
     (
       "+86 13659886645",
-       link("mailto:zhaohaoyu@whu.edu.cn", "zhaohaoyu@whu.edu.cn"),   
+       link("mailto:haoyuzhao@zju.edu.cn", "haoyuzhao@zju.edu.cn"),   
     )
 )
 
 #resume-section[Education]
-#resume-education(university: "Zhejiang University",degree: "Master", school: "School of Computer Science")[
-  *Incoming master in Zhejiang University*, supervised by #link("https://ziplab.co")[Bohan Zhuang].
+#resume-education(
+  university: "Zhejiang University",
+  degree: "Master",
+  school: "School of Computer Science",
+  start: "2026.09",
+  end: "present"
+)[
+  *First-year master* and member of #link("https://ziplab.co/")[ZIP Lab], supervised by #link("https://bohanzhuang.github.io/")[Bohan Zhuang]. Research interests: efficient video world models.
 ]
 
 #resume-education(
@@ -24,7 +30,7 @@
   degree: "Bachelor",
   school: "School of Computer Science",
   start: "2022.09",
-  end: "present"
+  end: "2026.06"
 )[
 *GPA: 3.94/4.0*，ranking *1*\/218.
 ]
