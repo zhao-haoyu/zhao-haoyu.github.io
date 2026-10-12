@@ -61,6 +61,10 @@ h2 {
   letter-spacing: -0.04em;
 }
 
+.bio {
+  text-align: justify;
+}
+
 /* Top navigation */
 
 .nav {
